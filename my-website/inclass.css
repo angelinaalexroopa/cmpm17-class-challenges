@@ -1,0 +1,43 @@
+#main-header {
+    background-color:#e4b1ea;
+    padding: 20px;
+    text-align: center;
+    color: #ffff;
+}
+
+#about-me-section {
+    padding: 20px;
+    max-width: 900px;
+    margin: auto;
+    background-color: #ffffff
+
+}
+
+#abt-me {
+    font-size: 1.1em;
+    color: #000000;
+    text-align: center;
+    line-height: 1.6;
+}
+
+.description {
+    font-size: 2.5em;
+    color: #000000;
+    text-align: center;
+    line-height: 1.6;
+}
+
+.title {
+    font-size: 2em;
+    font-weight: bold;
+    
+}
+
+.profile-pic {
+    border-radius: 50%;
+    max-width: 50%;
+    display: block;
+    margin: 20px auto;
+}
+
+
