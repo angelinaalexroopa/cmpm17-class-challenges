@@ -1,0 +1,91 @@
+nav {
+    background-color: #ffff;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+}
+
+nav button {
+    background-color: #555;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    margin: 0 10px;
+    font-size: 16px;
+    border-radius: 5px;
+}
+
+nav button:hover {
+    background-color: #777;
+}
+
+/* Profile Picture */
+.my-pic {
+    display: flex;
+    justify-content: center;
+    margin: 20px auto;
+    max-width: 200px;
+}
+
+.my-pic img {
+    width: 100%;
+}
+
+.resume {
+    text-align: center;
+    margin: 20px;
+}
+
+.resume button {
+    padding: 10px 20px;
+    background-color: #777;
+    color: white;
+    border: none;
+    font-size: 16px;
+    border-radius: 5px;
+}
+
+.resume button:hover {
+    background-color: #45a049;
+}
+
+.socials {
+    text-align: center;
+    margin: 20px;
+}
+
+
+.socials li {
+    display: inline-block;
+    margin: 0 10px;
+    font-size: 18px;
+    color: #333;
+    cursor: pointer;
+}
+
+
+.about-me {
+    text-align: center;
+    margin: 20px;
+}
+
+.about-me p {
+    font-size: 18px;
+    color: #333;
+}
+
+.message-me {
+    text-align: center;
+    margin: 20px;
+}
+
+.message-me button {
+    padding: 10px 20px;
+    background-color: #008CBA;
+    color: white;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+    border-radius: 5px;
+}
+

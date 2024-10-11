@@ -22,6 +22,7 @@ body {
     display: flex;
     width: 300px;
     gap: 30px;
+    padding:10px;
     /* 1. Add 10px of space around each social media item  */
 
 }
@@ -30,8 +31,10 @@ body {
 button {
     background-color: #333439;
     color: white;
-    border-radius: 10px;
+    border-radius:0px;
     width: 100px;
+    padding: 10px;
+
     /* 2. Add 10px of padding around this button */
 
     /* 3. Remove the border of this button */
@@ -40,6 +43,7 @@ button {
 
 p {
     width: 500px;
+    border-radius:0px;
 }
 
 h2 {
@@ -51,6 +55,7 @@ h3 {
     font-size: 20px;
     color: #757575;
     font-weight: 400;
+    top: 5px;
     /* 5. Add 5px of margin at the top of the h3 element */
 
 }
