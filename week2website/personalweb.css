@@ -1,4 +1,6 @@
 nav {
+    display: flex;
+    flex-direction: row;
     background-color: #ffff;
     padding: 10px;
     display: flex;
@@ -6,6 +8,8 @@ nav {
 }
 
 nav button {
+    display: flex;
+    flex-direction: start;
     background-color: #555;
     color: white;
     border: none;
